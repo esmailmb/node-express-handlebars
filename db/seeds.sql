@@ -1,4 +1,4 @@
-insert into burgers_tbl(burger_name) values ('Cheese Burger');
-insert into burgers_tbl(burger_name) values ('Hamburger');
-insert into burger_tbl(burger_name) values ('Bacon Cheese Burger');
-insert into burger_tbl(burger_name) values ('Garlic Burger');
+INSERT INTO burgers(burger_name, devoured) VALUES
+("sriracha lord", TRUE),
+("full of damn fish", FALSE),
+("goat cheese heaven", TRUE);
