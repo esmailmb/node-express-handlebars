@@ -26,3 +26,13 @@ h1 {
 .card-body {
 	padding: 25px;
 }
+
+.form-group {
+	padding: 10px;
+	width: 30px;
+}
+
+.input {
+
+	width: 100%;
+  }
