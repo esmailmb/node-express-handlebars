@@ -27,16 +27,22 @@ h1 {
 	padding: 25px;
 }
 
-.form-group {
-	padding: 10px;
-	width: 30rem;
-	height: 10rem;
-	border-radius: 1rem;
+.form-group input {
+	padding: 4px;
+	width: 20rem;
+	height: 3rem;
+	border-radius: 0.5rem;
+
 }
 
-.burger {
+.btn-secondary {
 
-	width: 30rem;
-	height: 6rem;
+	width: 20rem;
+	height: 4rem;
 	border-radius: 1rem;
+	position: relative;
+	color: green;
+	font-size: 25px;
+	font-weight: bold;
+	
   }
