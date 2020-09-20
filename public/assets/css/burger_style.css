@@ -32,7 +32,9 @@ h1 {
 	width: 30px;
 }
 
-.input {
+.burger {
 
-	width: 100%;
+	width: 30rem;
+	height: 6rem;
+	border-radius: 1rem;
   }
